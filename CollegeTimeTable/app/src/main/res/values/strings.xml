@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="TimeTable">Расписание</string>
+    <string-array name="arr1">
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+        <item>asdasd</item>
+    </string-array>
+</resources>
